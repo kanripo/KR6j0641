@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:58.773865
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說聖最勝陀羅尼經
 #+PROPERTY: CBETA_ID T21n1409
 #+PROPERTY: ID KR6j0641
